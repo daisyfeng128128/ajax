@@ -104,13 +104,13 @@ window.onload=function(){
 			var arr2=arr1[i].split('=');
 
 			console.log(arr1[i]);
-			//console.log(arr2[i])
-			//console.log(arr2[0])
-			if (arr2[0]==key) {
+			if (key==arr2[0]) {
 				return arr2[1];
 			}
 			
+			
 		}
+		return '';
 		
 	}
 	
