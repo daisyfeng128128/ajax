@@ -1,0 +1,10 @@
+后端接口：guestbook后端相关文件（接口从这里来）
+miaov_guestbook 数据库文件
+
+phpMyAdmin
+
+network
+xmlHttpRequest   XHR专门监控ajax请求的  （1）repspanse(复杂的时候看着费劲)
+					（2）preview
+
+跳转页面时需要通过cookie来知道当前登录页面的状态
